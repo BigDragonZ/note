@@ -19,5 +19,5 @@ pip install pipreqs
 # 导出所有依赖到 requirements.txt
 pip freeze > requirements.txt
 
-
+pip install --upgrade jupyter notebook
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
