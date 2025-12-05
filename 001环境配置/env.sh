@@ -21,3 +21,10 @@ pip freeze > requirements.txt
 
 pip install --upgrade jupyter notebook
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip3 install numpy matplotlib  -i https://mirrors.aliyun.com/pypi/simple/
+
+pip3 install pandas  -i https://mirrors.aliyun.com/pypi/simple/
+pip3 install jupyter notebook -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+ pip install matplotlib  -i https://mirrors.aliyun.com/pypi/simple/
